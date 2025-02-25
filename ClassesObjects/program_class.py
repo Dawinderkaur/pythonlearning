@@ -16,8 +16,10 @@ print(p1.x)
 ###########################################################################
 
 #-------------------__init__() function----------------- :
-#All classes have a function called __init__(), which is always executed when the class is being initiated.
-#Use the __init__() function to assign values to object properties, or other operations that are necessary to do when the object is being created:
+# All classes have a function called __init__(), which is always executed when the class is being initiated.
+# Use the __init__() function to assign values to object properties, or other operations that are necessary to do when the object is being created:
+# The __init__ method in Python is a special method called a constructor. It is automatically invoked when a new instance (object) of a class is created.
+# The purpose of the __init__ method is to initialize the object’s attributes and perform any other setup necessary when an object is instantiated.
 
 class Person:
     def __init__(self, name, age):
