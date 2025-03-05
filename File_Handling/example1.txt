@@ -1,0 +1,5 @@
+Modes: Be mindful of file modes (r, w, a, etc.).
+Context Manager (with): Always use the with statement for automatic file handling.
+File Operations: Learn how to read, write, append, and handle files efficiently.
+CSV and JSON: Know how to work with CSV and JSON file formats.
+Binary Files: Understand how to handle binary data (e.g., images).
